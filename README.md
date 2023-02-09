@@ -500,3 +500,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to print real and effective user and group IDs
 - How to print the groups a user is in
 - How to print the effective userid
+
+# Bash Begineer Series
+<a href="https://linuxhandbook.com/tag/bash-beginner/"/>Bash Begineer Series</a>
