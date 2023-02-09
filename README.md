@@ -465,7 +465,7 @@ By: Julien Barbier
 # Resources
 
 Read or watch:
-
+<a href="https://linuxhandbook.com/linux-file-permissions/"/>Linux File Permissions and Ownership Explained with Examples</a>
 - <a href="http://linuxcommand.org/lc3_lts0090.php"/>Permissions</a>
 
 # man or help:
