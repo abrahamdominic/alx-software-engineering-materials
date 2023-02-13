@@ -502,4 +502,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to print the effective userid
 
 # Bash Begineer Series
+
 <a href="https://linuxhandbook.com/tag/bash-beginner/"/>Bash Begineer Series</a>
+
+# Live Learning Session (Cohort 12): Shell Basics
+<img src="https://github.com/abrahamdominic/alx-software-engineering-materials/blob/main/image.png"/>
+<a href="https://youtube.com/live/xaWppl9PVaI"/>Live Learning Session (Cohort 12): Shell Basics</a>
+
+# Walkin with Firdaus and Charles
+<img src="https://github.com/abrahamdominic/alx-software-engineering-materials/blob/main/image.png"/>
+<a href="https://youtube.com/live/WrS6crqsiDg"/>Walk in Session (Cohort 12)</a>
